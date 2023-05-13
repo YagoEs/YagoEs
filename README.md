@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YagoEs
-- 👀  De olhos em infra / devops /redes
-- 🌱 I’m currently  cursando  TI
+- 👀  De olhos em infra / devops/
+- 🌱 Student of  IT
 - 💞️  Procuro oportunidades de estágio 
 - 📫  Yago.escarpett@outlook.com
 
