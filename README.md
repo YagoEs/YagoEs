@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YagoEs
-- 👀 DevOps | SRE | Prataform Solutions
+- 👀 IT Infrastructure Analyst | AWS Certified Cloud Practitioner | Evolving in DevOps & Cloud Solutions
 - 🌱 Student of  IT
 - 📫  Yago.escarpett@outlook.com
 
